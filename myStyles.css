@@ -20,5 +20,9 @@ border: 1px solid white;
 background-color: #EEEEEE
 }
 a:hover {
-  color: green; 
+  color: green;
+}
+img {
+  border: 0;
+  outline: 0;
 }
