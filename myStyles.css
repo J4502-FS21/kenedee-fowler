@@ -3,7 +3,9 @@ body{
   text-align:center;
   font-family: 'Playfair Display', serif;
 }
-
+h1, section {
+  font-family: 'Roboto', sans-serif;
+}
 ul {
   list-style-type: none;
 }
