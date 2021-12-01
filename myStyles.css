@@ -76,6 +76,14 @@ footer {
   padding: 15px;
   font-size: 1.15em;
 }
+.font a {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: black;
+  font-weight: 700;
+  font-size: 1.150em;
+  text-decoration: overline;
+  
+}
 
 h1, section {
   font-family: 'Roboto', sans-serif;
@@ -95,6 +103,9 @@ font-weight: bold;
 text-transform: uppercase;
 border: 1px solid white;
 background-color: #EEEEEE
+}
+.foot a {
+
 }
 a:hover {
   color: green;
