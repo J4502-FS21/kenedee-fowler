@@ -54,7 +54,7 @@ p a{
   font-size: 1em;
 }
 p a:hover {
-  color: yellow;
+  color: #C9184A;
 }
 h1, section {
   font-family: 'Roboto', sans-serif;
