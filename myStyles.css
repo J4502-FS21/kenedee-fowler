@@ -34,6 +34,9 @@ body {
   font-weight: 600;
   font-size: 1.25em;
 }
+.navcontainer a:hover {
+  color: #000000
+}
 h1, section {
   font-family: 'Roboto', sans-serif;
 }
