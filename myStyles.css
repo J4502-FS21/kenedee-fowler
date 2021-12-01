@@ -90,32 +90,3 @@ footer {
 #menu_trigger {
   display: none;
 }
-h1, section {
-  font-family: 'Roboto', sans-serif;
-}
-ul {
-  list-style-type: none;
-}
-li {
-margin: 2px;
-padding: 10px;
-border: 1px dotted grey
-}
-a {
-  text-decoration: none;
-font-style: italic;
-font-weight: bold;
-text-transform: uppercase;
-border: 1px solid white;
-background-color: #EEEEEE
-}
-.foot a {
-
-}
-a:hover {
-  color: green;
-}
-img {
-  border: 0;
-  outline: 0;
-}
