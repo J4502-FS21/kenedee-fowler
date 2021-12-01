@@ -56,6 +56,14 @@ p a{
 p a:hover {
   color: #C9184A;
 }
+#decorate {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1em;
+  display: block;
+  line-height: 1.5;
+  margin-block-start: 3em;
+  margin-inline-end: 3em;
+}
 h1, section {
   font-family: 'Roboto', sans-serif;
 }
