@@ -67,8 +67,16 @@ p a:hover {
 .link a:hover {
   color: #C9184A;
 }
-
+footer {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: white;
+  font-weight: 0px;
+  background:#C9184A;
+  margin: 0px;
+  padding: 15px;
+  font-size: 1.15em;
 }
+
 h1, section {
   font-family: 'Roboto', sans-serif;
 }
