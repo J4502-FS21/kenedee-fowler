@@ -87,6 +87,9 @@ footer {
 .foot a:hover {
   color: black;
 }
+#menu_trigger {
+  display: none;
+}
 h1, section {
   font-family: 'Roboto', sans-serif;
 }
