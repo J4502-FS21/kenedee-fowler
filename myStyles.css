@@ -64,6 +64,12 @@ p a:hover {
   margin-block-start: 3em;
   margin-inline-end: 3em;
 }
+#profile {
+  width: 150%
+  height: auto;
+  background color: #B1624EFF;
+  margin-inline-start: 10em;
+}
 h1, section {
   font-family: 'Roboto', sans-serif;
 }
