@@ -82,9 +82,11 @@ footer {
   font-weight: 700;
   font-size: 1.150em;
   text-decoration: overline;
-  
-}
 
+}
+.foot a:hover {
+  color: black;
+}
 h1, section {
   font-family: 'Roboto', sans-serif;
 }
