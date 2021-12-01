@@ -1,4 +1,4 @@
-body{
+body {
   background: #FADDE1;
   text-align: center;
   nargin: 0;
@@ -7,8 +7,30 @@ body{
   font-weight: 400;
 }
 .navcontainer nav {
-  background: #C9184A
+  background: #C9184A;
   display: block;
+}
+.navcontainer ul {
+  display: flex;
+  list-style-type: none;
+  text-align:center;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #C9184A;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+.navcontainer li {
+  margin: 2px;
+  padding: 10px;
+}
+.navcontainer a {
+  text-decoration: none;
+  font-weight: bold;
+  font-style: normal;
+  text-transform: inherit;
+  color: 
 }
 h1, section {
   font-family: 'Roboto', sans-serif;
