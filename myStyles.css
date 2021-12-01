@@ -1,10 +1,14 @@
 body{
   background: #FADDE1;
-  text-align: center; 
+  text-align: center;
   nargin: 0;
   padding: 0;
   font-family: 'Playfair Display', serif;
   font-weight: 400;
+}
+.navcontainer nav {
+  background: #C9184A
+  display: block;
 }
 h1, section {
   font-family: 'Roboto', sans-serif;
